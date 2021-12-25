@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources >
+    <dimen name="toolbar_title_size">18sp</dimen>
+    <dimen name="collapsing_toolbar_size">290dp</dimen>
+    <dimen name="play_btn_size">105dp</dimen>
+    <dimen name="user_icon_size">84dp</dimen>
+    <dimen name="user_margin_top">137dp</dimen>
+
+    <dimen name="margin_medium">10dp</dimen>
+    <dimen name="corner_radius_default">16dp</dimen>
+    <dimen name="edittext_width">60dp</dimen>
+    <dimen name="edittext_height">36dp</dimen>
+
+    <dimen name="view_margin">16dp</dimen>
+    <dimen name="view_width">330dp</dimen>
+    <dimen name="view_extra_width">345dp</dimen>
+
+    <dimen name="btn_width">120dp</dimen>
+
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="logo_size">110dp</dimen>
+    <dimen name="logo_large_size">180dp</dimen>
+    <dimen name="tv_size">280dp</dimen>
+
+    <dimen name="progress_bar_size">72dp</dimen>
+    <dimen name="external_radius">24dp</dimen>
+    <dimen name="internal_radius">4dp</dimen>
+
+    <dimen name="two">2dp</dimen>
+    <dimen name="four">4dp</dimen>
+    <dimen name="six">6dp</dimen>
+
+    <dimen name="eight">8dp</dimen>
+    <dimen name="ten">10dp</dimen>
+    <dimen name="twelve">12dp</dimen>
+    <dimen name="fourteen">14dp</dimen>
+    <dimen name="sixteen">16dp</dimen>
+    <dimen name="eighteen">18dp</dimen>
+
+    <dimen name="twenty">20dp</dimen>
+    <dimen name="twenty_two">22dp</dimen>
+    <dimen name="twenty_four">24dp</dimen>
+    <dimen name="twenty_eight">28dp</dimen>
+    <dimen name="thirty">30dp</dimen>
+
+    <dimen name="thirty_two">32dp</dimen>
+    <dimen name="thirty_six">36dp</dimen>
+    <dimen name="forty">40dp</dimen>
+    <dimen name="forty_eight">48dp</dimen>
+    <dimen name="fifty_two">52dp</dimen>
+    <dimen name="fiftySix">56dp</dimen>
+    <dimen name="sixty_four">64dp</dimen>
+    <dimen name="seventy_five">75dp</dimen>
+    <dimen name="file_list_size">185dp</dimen>
+
+    <dimen name="translationY">-4dp</dimen>
+    <dimen name="small_translationY">-2dp</dimen>
+    <dimen name="medium_translationY">-3dp</dimen>
+    <dimen name="email_maxlength">190dp</dimen>
+    <dimen name="email_view_height">18dp</dimen>
+
+    <dimen name="txt_initial">34sp</dimen>
+    <dimen name="txt_largest">21sp</dimen>
+    <dimen name="txt_large">18sp</dimen>
+    <dimen name="txt_big">17sp</dimen>
+    <dimen name="txt_medium">14sp</dimen>
+    <dimen name="txt_medium_normal">15sp</dimen>
+    <dimen name="txt_small">12sp</dimen>
+    <dimen name="txt_medium_small">13sp</dimen>
+    <dimen name="txt_normal">16sp</dimen>
+
+    <dimen name="btn_elevation">2dp</dimen>
+    <dimen name="stroke_width_outer">1.4dp</dimen>
+    <dimen name="stroke_width_inner">1.2dp</dimen>
+    <dimen name="zoom_width">250dp</dimen>
+
+    <dimen name="fillable_width">300dp</dimen>
+    <dimen name="fillable_height">70dp</dimen>
+</resources>

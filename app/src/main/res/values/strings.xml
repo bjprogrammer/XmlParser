@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RSS Feed</string>
+
+    <string name="no_connection">No Connection</string>
+    <string name="share_feed">Share Feed</string>
+    <string name="rss_feed">Share RSS Feed</string>
+
+</resources>

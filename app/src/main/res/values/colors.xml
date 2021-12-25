@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <color name="colorPrimaryDark">#09288A</color>
+        <color name="colorPrimary">#2345B1</color>
+        <color name="colorAccent">#3962DD</color>
+
+        <!-- Status Colors -->
+        <color name="error">#E54748</color>
+        <color name="errorTint">#F8ECEC</color>
+
+        <color name="success">#569F49</color>
+        <color name="orange">#DD9327</color>
+        <color name="grey">#6D6E6E</color>
+        <color name="greyTint">#D1D0D0</color>
+
+        <!--Background Colors-->
+        <color name="background">#E8E7E7</color>
+        <color name="holderColor">#FFFFFF</color>
+        <color name="shimmer">#dddddd</color>
+
+        <!-- Text Color-->
+        <color name="primaryText">#060606</color>
+        <color name="disable">#595959</color>
+        <color name="tertiaryText">#8C8C8C</color>
+        <color name="secondaryText">#b3b3b3</color>
+        <color name="lightGrey">#C2C2C2</color>
+        <color name="hintColor">#808080</color>
+</resources>
